@@ -1,5 +1,5 @@
 # Portfolio
-Senior Software Engineering with 12 years experinece. Passionate about technology, driven by intellectual curiosity!
+Senior Software Engineering with 12 years experinece. I love to write code to solve real life problems, currently working with JavaScript and Python.
 
 
 ---
